@@ -1,0 +1,13 @@
+{
+  "name": "Magical Custom Editor Breakout",
+  "description": "An editor with unicorn images",
+  "resources": {
+    "scripts": [
+      "/experience/editors/com/sfcc/magical_breakout.js"
+    ],
+    "styles": [
+      "https://cdnjs.cloudflare.com/ajax/libs/design-system/2.9.4/styles/salesforce-lightning-design-system.min.css",
+      "/experience/editors/com/sfcc/magical.css"
+    ]
+  }
+}
